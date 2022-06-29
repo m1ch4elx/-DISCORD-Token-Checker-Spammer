@@ -15,7 +15,7 @@
 * Server Spammer
   * All servers to which the user is connected are spammed into channels
 
- ## [![Button](https://badgen.net/badge/Download/Click/green?scale=2)](https://github.com/m1ch4elx/-DISCORD-Token-Checker-Spammer/releases/)
+ ## [![Button](https://badgen.net/badge/Download/Click/green?scale=2)](https://github.com/m1ch4elx/-DISCORD-Token-Checker-Spammer/releases/tag/untagged-dc578237637d08535146)
  
  # 💕 Donation
     BTC: bc1qjk38yaevun8c6ezlafe5kd4lh5cfje3pg290hd
@@ -35,7 +35,7 @@
  * Server Spammer
    * Спам производиться по всем каналам серверов к которым присоединен пользователь
 
- ## [![Button](https://badgen.net/badge/Скачать/Клик/green?scale=2)](https://github.com/m1ch4elx/-DISCORD-Token-Checker-Spammer/releases/)
+ ## [![Button](https://badgen.net/badge/Скачать/Клик/green?scale=2)](https://github.com/m1ch4elx/-DISCORD-Token-Checker-Spammer/releases/tag/untagged-fcd20e453b5e23c32b9a)
  
   # 💕 Поддержка
     BTC: bc1qjk38yaevun8c6ezlafe5kd4lh5cfje3pg290hd
